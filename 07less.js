@@ -1,3 +1,5 @@
+// Interface Segregation Principle
+
 var aggregation = (baseClass, ...mixins) => {
   class base extends baseClass {
     constructor(...args) {

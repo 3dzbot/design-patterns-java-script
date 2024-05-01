@@ -1,3 +1,5 @@
+// Dependency Inversion Principle
+
 let Relationship = Object.freeze({
 	parent: 0,
 	child: 1,

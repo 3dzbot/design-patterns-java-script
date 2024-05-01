@@ -1,3 +1,5 @@
+// Liskov Substitution Principle
+
 class Rectangle
 {
   constructor(width, height)

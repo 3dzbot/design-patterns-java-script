@@ -1,3 +1,5 @@
+// Open-Closed Principle
+
 let Color = Object.freeze({
   red: "red",
   green: "green",

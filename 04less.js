@@ -1,6 +1,6 @@
+// Single Responsibility Principle
+
 const fs = require("fs");
-
-
 
 class Journal {
   constructor() {
